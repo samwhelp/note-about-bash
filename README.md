@@ -5,6 +5,7 @@
 | Link | GitHub |
 | ---- | ------ |
 | [Bash 探索筆記](https://samwhelp.github.io/note-about-bash/) | [GitHub](https://github.com/samwhelp/note-about-bash) |
+| [Make 探索筆記](https://samwhelp.github.io/note-about-make/) | [GitHub](https://github.com/samwhelp/note-about-make) |
 
 
 ## Bash Enhance
