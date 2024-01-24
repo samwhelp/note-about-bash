@@ -11,7 +11,7 @@ has_children: true
 
 | Link |
 | ---- |
-| [Bash](https://www.gnu.org/software/bash/) |
+| [GNU Bash](https://www.gnu.org/software/bash/) |
 
 
 ## Just the Docs
