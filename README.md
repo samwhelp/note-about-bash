@@ -11,7 +11,7 @@
 
 | Link | GitHub |
 | ---- | ------ |
-| [bash-enhance](https://samwhelp.github.io/bash-enhance/) | [GitHub](https://github.com/samwhelp/bash-enhance) |
+| [bashrc-enhance](https://samwhelp.github.io/bashrc-enhance/) | [GitHub](https://github.com/samwhelp/bashrc-enhance) |
 
 
 ## Bash Project
